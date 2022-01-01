@@ -1,4 +1,6 @@
 # Pacman-AI-Part1
+Note: Code is kept private.
+
 This project implements various search algorithms that takes Pacman to the goal state. 
 For Single-Agent Pacman:
 1. Iterative Deepening: The iterativeDeepeningSearch function in search.py is an interative-deepening search algorithm that takes a search problem as input and  returns a plan (list of actions) that takes Pacman to the goal state.
