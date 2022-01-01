@@ -1,5 +1,5 @@
 # Pacman-AI-Part1
-Note: Code is kept private, but can share on a need-to-know basis.
+Note: Code is kept private.
 
 This project implements various search algorithms that takes Pacman to the goal state. 
 
