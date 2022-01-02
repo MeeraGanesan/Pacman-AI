@@ -1,5 +1,5 @@
 # Pacman-AI
-Note: Code is kept private. Attributed to UC Berkeley (http://ai.berkeley.edu)
+Note: Code is kept private, can show on a need-to-know basis. Attributed to UC Berkeley (http://ai.berkeley.edu)
 
 This project implements various search algorithms that takes Pacman to the goal state. 
 
